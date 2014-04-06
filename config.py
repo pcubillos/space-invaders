@@ -1,26 +1,31 @@
 from numpy import array
-# Configuration file for Squish
-# -----------------------------
 # If the game is too fast or too slow, try to modify the speed
 # variables.
 
 # Change these to use other images in the game:
-banana_image = 'moss.png'
-weight_image = 'jen.png'
-splash_image = 'jen.png'
-background_image = 'ngc1300_hst_big.jpg'
-#background_image = 'NGC1300.jpeg'
+background_image = './aux/ngc1300_hst_big.jpg'
 
-# Change these to affect the general appearance:
+# Fonts:
+font = './aux/ProFontWindows.ttf'
+
+# Sounds:
+explosion = './aux/explosion.wav'
+doh       = './aux/doh.wav'
+laser     = './aux/laser.wav'
+blast     = './aux/blast.wav'
+bombfall  = './aux/bombfall.wav'
+
+# General appearance:
 screen_size = 400, 456
 background_color = 0, 0, 0
 bg_size = 800, 456
 margin = 30
 full_screen = 0
 bullet_color = 255, 255, 255
-n_stars = 100
-stars_vel = 4
-color_stars = 255, 255, 255
+# Background stars:
+n_stars = 100  # Number
+stars_vel = 4  # Maximum velocity
+color_stars = 255, 255, 255 # Color: white
 
 # Textos
 font_size = 48
