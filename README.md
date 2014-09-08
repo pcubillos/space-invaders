@@ -9,6 +9,7 @@ Screenshots:
 </dl>
 
 Youtube demo:
+-------------
 <a href="https://www.youtube.com/watch?v=XczQpSbme5M" target="_blank"><img src="https://github.com/pcubillos/space-invaders/blob/master/screenshots/youtube_screenshot.jpg" 
 alt=""border="10" /></a>
 
