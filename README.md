@@ -4,6 +4,8 @@ Version:
 --------
 1.0.0
 
+![Screen Shot 0](https://github.com/pcubillos/space-invaders/blob/master/screenshots/ScreenShot0.jpg "Logo Title Text 1")
+
 Info:
 -----
 The game comes with three levels of difficulty, it gets harder as you advance the stages, the player can grab special weapons as you kill aliens, The best socres are stored for each difficulty. The source code can be downloaded from the repository:
