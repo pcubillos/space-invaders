@@ -4,7 +4,15 @@ Version:
 --------
 1.0.0
 
-![Screen Shot 0](https://github.com/pcubillos/space-invaders/blob/master/screenshots/ScreenShot0.jpg "Logo Title Text 1")
+<dl >
+  <img src="screenshots/ScreenShot0.jpg" width="300">.
+  <img src="screenshots/ScreenShot2.jpg" width="300">.
+  <img src="screenshots/ScreenShot1.jpg" width="300">
+</dl>
+
+Youtube demo:
+[![ScreenShot](screenshots/youtube_screenshot.jpg)](https://www.youtube.com/watch?v=XczQpSbme5M)
+
 
 Info:
 -----
